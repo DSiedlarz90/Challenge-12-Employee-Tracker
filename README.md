@@ -35,9 +35,10 @@
   * Inquirer
   * Javascript
   
-  
+  ## Demo Video Location
+  https://watch.screencastify.com/v/rMJ25XxWGpYv9ylMzPg4
   ## Screenshot
-  ![Demo Gif](./assets/Screenshot.jpg)
+  ![Application Screenshot](./assets/Screenshot.jpg)
 
   ## Github Repo Location
   [https://github.com/DSiedlarz90/Challenge-12-Employee-Tracker](https://github.com/DSiedlarz90/Challenge-12-Employee-Tracker)
